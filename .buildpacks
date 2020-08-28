@@ -1,0 +1,3 @@
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+https://github.com/heroku/heroku-buildpack-play
+https://github.com/ddollar/heroku-buildpack-multi

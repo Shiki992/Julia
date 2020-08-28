@@ -1,0 +1,9 @@
+############################### - Ideas for Bot Functionality - ###############################
+
+1. Ban, Kick - Moderator Commands
+2. Library - For creating commands efficiently and easily
+3. AI Integration
+    -   Bot records questions and learns from responses from other users to give its own reply
+    -   Learn about memes and predict meme quality
+4. Create Content using Bot 
+    -   Create memes by specifying meme format and text

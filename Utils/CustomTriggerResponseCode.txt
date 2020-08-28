@@ -1,0 +1,6 @@
+@client.command(name=triggerWord, pass_context=True)
+async def on_seq(context):
+    print("Trigerred custom Reponse to trigger", triggerWord)
+    response = ResponseText
+    await context.channel.send(context.message.author.mention + " " + response)
+    return
